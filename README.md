@@ -204,6 +204,7 @@ Each extension will require its own documented implementation and validation evi
 | Local Event — Project Framework | [GitHub Repository](https://github.com/d3-vital-x/D3-VITAL-X-SPACE-APPS-Hackathon-2026-Local) |
 | Global Event — Research Engine Framework | [GitHub Repository](https://github.com/d3-vital-x/D3-VITAL-X-Astronaut-Health-Monitor) |
 | Space Intelligence Platform | [Live Dashboard](https://d3-vital-x-space-intelligence-platform-fusixpyyj6bwcnezalb7wc.streamlit.app/) |
+| 30-Second Video Demonstration | [YouTube Link](https://youtu.be/DdbhNYBypws?si=WyfzTxIeR0pvsvrr) |
 
 ***
 

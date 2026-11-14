@@ -1,16 +1,17 @@
-D³ VITAL-X | Astronaut Health Monitor
 
-Research Engine, Computational Validation & Integration Framework
+# **D³ VITAL-X | Astronaut Health Monitor**
 
-One AI Engine. Multiple Worlds. One Signal Language.
+## **Research Engine, Computational Validation & Integration Framework**
 
-An independent research-engine initiative by D³ VITAL-X BANGLADESH, developed in the context of the NASA Space Apps Challenge 2026.
+### **One AI Engine. Multiple Worlds. One Signal Language.**
 
-Challenge: Create Health Monitoring Software for Astronauts on Space Missions.
+An independent research-engine initiative by **D³ VITAL-X BANGLADESH**, developed in the context of the NASA Space Apps Challenge 2026.
 
----
+**Challenge:** Create Health Monitoring Software for Astronauts on Space Missions.
 
-1. Project Overview
+***
+
+## **1. Project Overview**
 
 D³ VITAL-X Astronaut Health Monitor is a research-oriented computational engine framework focused on the analysis of complex, noisy, and heterogeneous scientific signals.
 
@@ -18,17 +19,17 @@ This repository documents the research methodology, computational experiments, s
 
 The objective is to investigate how computational signal-analysis methods can extract measurable structural indicators from noisy datasets and potentially contribute to a broader scientific intelligence platform.
 
-This repository represents the Research Engine Framework, while the associated Local Event repository represents the Application and Platform Framework.
+This repository represents the **Research Engine Framework**, while the associated Local Event repository represents the **Application and Platform Framework**.
 
----
+***
 
-2. Two Frameworks — One Architectural Vision
+## **2. Two Frameworks — One Architectural Vision**
 
 D³ VITAL-X is organized into two complementary development tracks.
 
-A. Project Framework — Local Event Repository
+### **A. Project Framework — Local Event Repository**
 
-Repository: "D³ VITAL-X Space Intelligence Platform" (https://github.com/d3-vital-x/D3-VITAL-X-SPACE-APPS-Hackathon-2026-Local)
+Repository: [D³ VITAL-X Space Intelligence Platform](https://github.com/d3-vital-x/D3-VITAL-X-SPACE-APPS-Hackathon-2026-Local)
 
 The Local Event repository documents the application-side architecture, including:
 
@@ -42,9 +43,9 @@ The Local Event repository documents the application-side architecture, includin
 
 Its primary responsibility is to provide the application infrastructure through which scientific datasets can be uploaded, processed, explored, and visualized.
 
-B. Research Engine Framework — Global Event Repository
+### **B. Research Engine Framework — Global Event Repository**
 
-Repository: "D³ VITAL-X Astronaut Health Monitor" (https://github.com/d3-vital-x/D3-VITAL-X-Astronaut-Health-Monitor)
+Repository: [D³ VITAL-X Astronaut Health Monitor](https://github.com/d3-vital-x/D3-VITAL-X-Astronaut-Health-Monitor)
 
 This repository focuses on:
 
@@ -59,9 +60,9 @@ This repository focuses on:
 
 Its primary responsibility is to document and evaluate the research-engine approach independently of the application layer.
 
----
+***
 
-3. Research Methodology
+## **3. Research Methodology**
 
 The research framework investigates computational characteristics of noisy biomedical signals using statistical and signal-processing methods.
 
@@ -78,29 +79,30 @@ The documented experimental workflow includes:
 
 The experiments are designed to distinguish measured data characteristics from computationally derived indicators and exploratory interpretations.
 
----
+***
 
-4. Extended IAAFT Convergence Audit
+## **4. Extended IAAFT Convergence Audit**
 
-Test 02B — Extended Computational Evaluation
+### **Test 02B — Extended Computational Evaluation**
 
 The documented extended audit used:
 
-Parameter| Configuration
-Dataset rows| 80,000
-Number of channels| 6
-Replicates per channel| 10
-Total trajectories| 60
-Iteration checkpoints| 200, 300, 400, 500
-Random seed| 20261114
+| Parameter | Configuration |
+|---|---:|
+| Dataset rows | 80,000 |
+| Number of channels | 6 |
+| Replicates per channel | 10 |
+| Total trajectories | 60 |
+| Iteration checkpoints | 200, 300, 400, 500 |
+| Random seed | 20261114 |
 
-Principal Findings
+### **Principal Findings**
 
 The recorded results show decreasing mean spectral error with increasing iteration counts across all six evaluated channels.
 
 The maximum reported reduction between 200 and 500 iterations was:
 
-56.44% — MA_MLII
+**56.44% — MA_MLII**
 
 Other channels also showed measurable reductions, with different convergence characteristics.
 
@@ -117,9 +119,9 @@ The corresponding raw, summary, and comparison CSV files are intended to provide
 
 These findings describe IAAFT surrogate spectral-matching behavior. They do not independently establish anomaly-detection accuracy or validate the complete research engine.
 
----
+***
 
-5. Computational Evidence & Reproducibility
+## **5. Computational Evidence & Reproducibility**
 
 This repository is intended to preserve the relationship between experimental configurations, input datasets, computational outputs, and supporting visual evidence.
 
@@ -135,15 +137,15 @@ Where available, records include:
 
 Large datasets and generated evidence packages may be hosted externally, with source references and integrity information documented in the repository.
 
----
+***
 
-6. Potential Engine-to-Platform Integration
+## **6. Potential Engine-to-Platform Integration**
 
 The long-term architectural objective is to explore the integration of the D³ VITAL-X research engine with the D³ VITAL-X Space Intelligence Platform.
 
 The proposed integration pathway is:
 
-Scientific Data → Platform Data Layer → Feature Interface → Research Engine → Computational Outputs → Dashboard Visualization
+**Scientific Data → Platform Data Layer → Feature Interface → Research Engine → Computational Outputs → Dashboard Visualization**
 
 The application framework can manage data ingestion, quality control, visualization, and user interaction.
 
@@ -162,9 +164,9 @@ This is an architectural integration proposal, not a declaration of an already c
 
 Actual integration will require compatible input/output contracts, testing, resource evaluation, and independent validation.
 
----
+***
 
-7. Scientific Scope & Limitations
+## **7. Scientific Scope & Limitations**
 
 The current experiments must be interpreted within their actual data and methodological scope.
 
@@ -177,9 +179,9 @@ The current experiments must be interpreted within their actual data and methodo
 
 All potentially significant outputs require appropriate scientific interpretation and human review.
 
----
+***
 
-8. Research and Development Roadmap
+## **8. Research and Development Roadmap**
 
 Future development may investigate:
 
@@ -193,40 +195,41 @@ Future development may investigate:
 
 Each extension will require its own documented implementation and validation evidence.
 
----
+***
 
-9. Project Repositories & Demonstration
+## **9. Project Repositories & Demonstration**
 
-Resource| Repository / Link
-Local Event — Project Framework| "GitHub Repository" (https://github.com/d3-vital-x/D3-VITAL-X-SPACE-APPS-Hackathon-2026-Local)
-Global Event — Research Engine Framework| "GitHub Repository" (https://github.com/d3-vital-x/D3-VITAL-X-Astronaut-Health-Monitor)
-Space Intelligence Platform| "Live Dashboard" (https://d3-vital-x-space-intelligence-platform-fusixpyyj6bwcnezalb7wc.streamlit.app/)
+| Resource | Repository / Link |
+|---|---|
+| Local Event — Project Framework | [GitHub Repository](https://github.com/d3-vital-x/D3-VITAL-X-SPACE-APPS-Hackathon-2026-Local) |
+| Global Event — Research Engine Framework | [GitHub Repository](https://github.com/d3-vital-x/D3-VITAL-X-Astronaut-Health-Monitor) |
+| Space Intelligence Platform | [Live Dashboard](https://d3-vital-x-space-intelligence-platform-fusixpyyj6bwcnezalb7wc.streamlit.app/) |
 
----
+***
 
-10. Research Identity
+## **10. Research Identity**
 
-D³ VITAL-X BANGLADESH
+**D³ VITAL-X BANGLADESH**
 
-Team Composition
+### **Team Composition**
 
-Md. Ra-bi-ul Islam
+**Md. Ra-bi-ul Islam**  
 Team Lead · Principal Investigator
 
-Irtiza Hasanat Al Quraishi
+**Irtiza Hasanat Al Quraishi**  
 Collaborator
 
-Nusrat Jahan Noha
+**Nusrat Jahan Noha**  
 Data Analysis · University of Rajshahi
 
 Independent research and computational development initiative, Satkhira, Bangladesh.
 
----
+***
 
-«Our Architectural Vision
+> **Our Architectural Vision**
+>
+> The Local Event repository establishes the application framework. The Global Event repository documents the research-engine framework. Their potential integration represents a pathway toward a unified, modular Space Intelligence Platform.
 
-The Local Event repository establishes the application framework. The Global Event repository documents the research-engine framework. Their potential integration represents a pathway toward a unified, modular Space Intelligence Platform.»
+**Open Interfaces. Measurable Computation. Transparent Validation. Protected Intelligence.**
 
-Open Interfaces. Measurable Computation. Transparent Validation. Protected Intelligence.
-
-One AI Engine. Multiple Worlds. One Signal Language.
+*One AI Engine. Multiple Worlds. One Signal Language.*

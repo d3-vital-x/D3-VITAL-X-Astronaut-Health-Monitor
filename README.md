@@ -20,6 +20,8 @@ The objective is to investigate how computational signal-analysis methods can ex
 
 This repository represents the Research Engine Framework, while the associated Local Event repository represents the Application and Platform Framework.
 
+---
+
 2. Two Frameworks — One Architectural Vision
 
 D³ VITAL-X is organized into two complementary development tracks.
@@ -57,6 +59,8 @@ This repository focuses on:
 
 Its primary responsibility is to document and evaluate the research-engine approach independently of the application layer.
 
+---
+
 3. Research Methodology
 
 The research framework investigates computational characteristics of noisy biomedical signals using statistical and signal-processing methods.
@@ -73,6 +77,8 @@ The documented experimental workflow includes:
 8. Statistical comparison and reproducibility reporting.
 
 The experiments are designed to distinguish measured data characteristics from computationally derived indicators and exploratory interpretations.
+
+---
 
 4. Extended IAAFT Convergence Audit
 
@@ -111,6 +117,8 @@ The corresponding raw, summary, and comparison CSV files are intended to provide
 
 These findings describe IAAFT surrogate spectral-matching behavior. They do not independently establish anomaly-detection accuracy or validate the complete research engine.
 
+---
+
 5. Computational Evidence & Reproducibility
 
 This repository is intended to preserve the relationship between experimental configurations, input datasets, computational outputs, and supporting visual evidence.
@@ -126,6 +134,8 @@ Where available, records include:
 - Validation reports.
 
 Large datasets and generated evidence packages may be hosted externally, with source references and integrity information documented in the repository.
+
+---
 
 6. Potential Engine-to-Platform Integration
 
@@ -152,6 +162,8 @@ This is an architectural integration proposal, not a declaration of an already c
 
 Actual integration will require compatible input/output contracts, testing, resource evaluation, and independent validation.
 
+---
+
 7. Scientific Scope & Limitations
 
 The current experiments must be interpreted within their actual data and methodological scope.
@@ -164,6 +176,8 @@ The current experiments must be interpreted within their actual data and methodo
 - No clinical diagnosis, treatment recommendation, or flight-safety certification is claimed.
 
 All potentially significant outputs require appropriate scientific interpretation and human review.
+
+---
 
 8. Research and Development Roadmap
 
@@ -179,6 +193,8 @@ Future development may investigate:
 
 Each extension will require its own documented implementation and validation evidence.
 
+---
+
 9. Project Repositories & Demonstration
 
 Resource| Repository / Link
@@ -186,15 +202,22 @@ Local Event — Project Framework| "GitHub Repository" (https://github.com/d3-vi
 Global Event — Research Engine Framework| "GitHub Repository" (https://github.com/d3-vital-x/D3-VITAL-X-Astronaut-Health-Monitor)
 Space Intelligence Platform| "Live Dashboard" (https://d3-vital-x-space-intelligence-platform-fusixpyyj6bwcnezalb7wc.streamlit.app/)
 
+---
+
 10. Research Identity
 
 D³ VITAL-X BANGLADESH
+
+Team Composition
 
 Md. Ra-bi-ul Islam
 Team Lead · Principal Investigator
 
 Irtiza Hasanat Al Quraishi
 Collaborator
+
+Nusrat Jahan Noha
+Data Analysis · University of Rajshahi
 
 Independent research and computational development initiative, Satkhira, Bangladesh.
 

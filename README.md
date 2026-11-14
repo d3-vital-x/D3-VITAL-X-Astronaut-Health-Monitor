@@ -233,3 +233,17 @@ Independent research and computational development initiative, Satkhira, Banglad
 **Open Interfaces. Measurable Computation. Transparent Validation. Protected Intelligence.**
 
 *One AI Engine. Multiple Worlds. One Signal Language.*
+
+---
+
+<div align="center">
+
+### 🌏 D³ VITAL-X Bangladesh
+
+**Independent Research & Computational Science Initiative**  
+
+***"Transform the World, Illuminate the Future"***
+
+***"Driven by Logic, Not by Degree"***
+
+**NASA Space Apps Challenge 2026 — Independent Research Prototype**

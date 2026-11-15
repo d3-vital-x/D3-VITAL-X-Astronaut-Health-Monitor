@@ -218,10 +218,10 @@ Each extension will require its own documented implementation and validation evi
 Team Lead · Principal Investigator
 
 **Irtiza Hasanat Al Quraishi**  
-Collaborator - Dhaka Medical College Hospital (DMCH).
+Collaborator - **Dhaka Medical College Hospital (DMCH).**
 
 **Nusrat Jahan Noha**  
-Data Analysis - University of Rajshahi
+Research Contributor — Data Analysis | **University of Rajshahi**
 
 Independent research and computational development initiative, Satkhira, Bangladesh.
 

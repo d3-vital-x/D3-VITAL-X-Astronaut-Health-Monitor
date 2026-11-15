@@ -1,3 +1,4 @@
+
 # 07 | Platform Integration
 
 ## Architecture and Local Event Framework Integration
@@ -24,48 +25,52 @@ Its role is to document research methodology, computational experiments, surroga
 
 ### 3. Proposed Integration Architecture
 
-```text
-Scientific Data Sources
-          |
-          v
-Platform Data Layer
-          |
-          v
-Data Quality and Preparation
-          |
-          v
-Feature / Engine Interface
-          |
-          v
-Research Engine
-          |
-          v
-Computational Outputs
-          |
-          v
-Dashboard Visualization
-          |
-          v
-Human Review
-```
+    Scientific Data Sources
+              |
+              v
+       Platform Data Layer
+              |
+              v
+    Data Quality and Preparation
+              |
+              v
+      Feature / Engine Interface
+              |
+              v
+          Research Engine
+              |
+              v
+       Computational Outputs
+              |
+              v
+      Dashboard Visualization
+              |
+              v
+           Human Review
 
-## 4. Architecture Documentation
-​architecture.md — describes system-level components, responsibilities, and proposed data flow.
-​integration_roadmap.md — outlines staged integration with the Local Event Repository, including interface alignment, compatibility testing, and validation.
-​
-## 5. Integration Roadmap
-​Review the Local Event platform's data and feature schemas.
-​Align the Global Event engine interface with the platform contract.
-​Define input/output compatibility requirements.
-​Implement a controlled integration adapter.
-​Test data flow and failure handling.
-​Compare outputs against independently reproducible reference results.
-​Document limitations and integration status.
+### 4. Architecture Documentation
 
-## ​6. Current Status and Boundary
-​The repositories are complementary but remain distinct development tracks.
-​The architecture described here is a proposed integration pathway. It must not be interpreted as evidence that the Global Event engine is already deployed inside the Local Event dashboard.
-​
+- `architecture.md` — describes system-level components, responsibilities, and proposed data flow.
+- `integration_roadmap.md` — outlines staged integration with the Local Event Repository, including interface alignment, compatibility testing, and validation.
+
+### 5. Integration Roadmap
+
+1. Review the Local Event platform's data and feature schemas.
+2. Align the Global Event engine interface with the platform contract.
+3. Define input/output compatibility requirements.
+4. Implement a controlled integration adapter.
+5. Test data flow and failure handling.
+6. Compare outputs against independently reproducible reference results.
+7. Document limitations and integration status.
+
+### 6. Current Status and Boundary
+
+The repositories are complementary but remain distinct development tracks.
+
+The architecture described here is a proposed integration pathway. It must not be interpreted as evidence that the Global Event engine is already deployed inside the Local Event dashboard.
+
 Integration claims should be updated only after implementation and documented testing.
 
-​**Architectural vision:** One modular platform, clearly separated application and research-engine responsibilities, and measurable computational interfaces.
+---
+
+**Architectural vision:** One modular platform, clearly separated application and research-engine responsibilities, and measurable computational interfaces.
